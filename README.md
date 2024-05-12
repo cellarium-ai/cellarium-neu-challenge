@@ -67,12 +67,12 @@ Develop an algorithm that, based on the response from the nearest neighbor searc
 You are required to propose the algorithm and describe it in detail. While the code for the prototype is not mandatory, it would be a valuable addition. Please include the resources you used, such as links to papers or articles.
 
 ### Submission
-Send your submission work to:
+Send your submission to:
 
 fgrab@broadinstitute.org
 
-before May 30, 2024
+before May 30, 2024.
 
-Please include "NEU-Cellarium-Challenge" into the email subject.
+Please include "NEU-Cellarium-Challenge" in the email subject line.
 
-Feel free to use the same email if you have any questions regarding the challenge task
+Feel free to use the same email if you have any questions regarding the challenge task.
