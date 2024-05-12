@@ -49,7 +49,7 @@ This would help us to annotate the query cell with the cell type returned from t
 3. Summarize context based on Nearest Neighbor Search output (the step that needs action)
 
 ## Problem
-Cell Type is a categorical variable. Hierarchy of cell types is represented by Cell Type [Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)).
+Cell Type is a categorical variable. Hierarchy of cell types is represented by [Cell Type Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)).
 Having all those neighbors in our response is hard to interpret for the annotation as sometimes the response has multiple reasonable matches. Our reference datasets are annotated at different levels of the cell ontology.  As a result, a similarity query results in a mixture of annotations at different granularities.
 Attention: the complexity of the problem lies in the fact that higher level cell types belong to multiple lower cell types in hierarchy, however those lower level cell types (which are all parents for the lower level cell type) can have different parents and have no connection. Example:
 
