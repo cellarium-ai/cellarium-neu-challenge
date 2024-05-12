@@ -1,4 +1,4 @@
-# NEU | Broad Challenge Description
+# NEU | Cellarium Challenge Description
 ## Description
 
 Cell Annotation Service (CAS) is a tool that can be used for a rapid search of the cells based on their raw count matrices. This service can be used by analysts to perform annotation and search of their cells.
@@ -72,5 +72,7 @@ Send your submission work to:
 fgrab@broadinstitute.org
 
 before May 30, 2024
+
+Please include "NEU-Cellarium-Challenge" into the email subject.
 
 Feel free to use the same email if you have any questions regarding the challenge task
