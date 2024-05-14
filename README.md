@@ -10,9 +10,9 @@ The Raw Count Matrix in scRNA-seq data is a sparse, high-dimensional array where
 Typically, these matrices have 30,000 to 40,000 columns and can vary in the number of rows, sometimes reaching several millions. Most of the values represent 0, just a small portion of the values in the matrix has numbers other than 0.
 
 ## Data Flow of Cell Annotation
-1. Dimensionality reduction.
+1. [Dimensionality reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction)
    First scRNA-seq data comes from the client and goes through dimensionality reduction (PCA). As the output PCA gives us 512 dimension vectors.
-2. Nearest Neighbor Search
+2. [Nearest Neighbor Search](https://en.wikipedia.org/wiki/Nearest_neighbor_search)
    Then 512 dimension representations of the input cells go to a Nearest Neighbor Search engine, which returns an array of cells that are close to the querying cell (potentially meaningful biological context).
    Let’s say for our input example (Table 1) we have an output like this:
 ```JSON
@@ -64,7 +64,7 @@ When the nearest neighbor search returns results with various cell types, we nee
 
 ## Challenge
 Develop an algorithm that, based on the response from the nearest neighbor search engine, can return a reasonable aggregation of cell types while ranking them.
-You are required to propose the algorithm and describe it in detail. While the code for the prototype is not mandatory, it would be a valuable addition. Please include the resources you used, such as links to papers or articles.
+You are required to propose the algorithm and describe it in detail. While the code for the prototype is not mandatory, it would be a valuable addition. Please include the resources you used, such as links to papers or articles. The most important criteria that we will look at are the approach you propose for the problem's solution and how well you can use online resources to develop one.
 
 ### Submission
 Send your submission to:
@@ -76,3 +76,6 @@ before May 30, 2024.
 Please include "NEU-Cellarium-Challenge" in the email subject line.
 
 Feel free to use the same email if you have any questions regarding the challenge task.
+
+### Materials
+Please find a jupyter notebook attached with examples of the data. You can use the notebook (NEU-Broad-Challenge.ipynb) as a starter point for the challenge.
