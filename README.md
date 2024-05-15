@@ -1,4 +1,4 @@
-# NEU | Cellarium Challenge Description
+# NEU | Cellarium Challenge
 ## Description
 
 Cell Annotation Service (CAS) is a tool that can be used for a rapid search of the cells based on their raw count matrices. This service can be used by analysts to perform annotation and search of their cells.
