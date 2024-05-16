@@ -85,7 +85,5 @@ Feel free to use the same email if you have any questions regarding the challeng
 Please find a jupyter notebook attached with examples of the data. You can use the notebook (NEU-Broad-Challenge.ipynb) as a starter point for the challenge.
 
 
-Challenge is provided by Cellarium team at Data Sciences Platform, Broad Institute.
-
-![Image](./assets/Broad-Light.svg)
+Challenge is provided by Cellarium team at Data Sciences Platform, Broad Institute and professor Nik Bear Brown, Northeastern University, College of Engineering.
 
