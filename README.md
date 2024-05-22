@@ -75,7 +75,7 @@ and CC Prof Nik Bear Brown:
 
 ni.brown@northeastern.edu
 
-before May 30, 2024, 11:59 PM.
+before June 6, 2024, 11:59 PM.
 
 Please include "NEU-Cellarium-Challenge" in the email subject line.
 
